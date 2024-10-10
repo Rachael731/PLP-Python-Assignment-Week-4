@@ -1,8 +1,11 @@
 # PLP-Python-Assignment-Week-4
 1. Create a Python class named Person.
 2. The Person class should have the following attributes:
+
 name: representing the person's name.
+
 age: representing the person's age.
+
 gender: representing the person's gender.
 
 1. Implement a method called introduce that prints a message introducing the person with their name, age, and gender.
